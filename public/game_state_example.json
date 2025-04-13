@@ -1,0 +1,35 @@
+{
+  "id": {},
+  "players_number": {},
+  "game_round": {},
+  "player_turn": {},
+  "players": [
+    {
+      "id": {},
+      "name": {},
+      "bet": [
+        {
+          "round": {},
+          "tricks_number": {}
+        }
+      ],
+      "tricks_made": [
+        {
+          "round": {},
+          "tricks_number": {}
+        }
+      ],
+      "score": {},
+      "hand": {
+        "cards_number": {},
+        "cards_id": []
+      }
+    }
+  ],
+  "last_event": {
+    "type": {},
+    "event_data": {}
+  },
+  "deck_cards": [],
+  "game_board_cards": []
+}
